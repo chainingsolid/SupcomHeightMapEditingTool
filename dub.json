@@ -1,0 +1,6 @@
+{
+	"name" : "supcomheightmapeditingtool",
+	"description" : "Hello World - A minimal DUB bundle.",
+	"dependencies" : {
+	}
+}
